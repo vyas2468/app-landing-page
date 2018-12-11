@@ -1,0 +1,46 @@
+body {
+	position: relative;
+}
+
+.jumbotron {
+	background-image: url(landing-page.jpg);
+	background-size: cover;
+	text-align: center;
+	margin-top: 55px;
+}
+.form-inline {
+	justify-content: center;
+}
+#email {
+	width: 300px;
+}
+
+.btn-primary {
+	margin-left: 5px;
+}
+
+#appSummary {
+	display: block;
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 50px;
+
+}
+
+#appstoreicon {
+	width: 200px;
+	border-radius: 20px;
+}
+
+#footer {
+	background-color: aqua;
+	padding-top: 150px;
+	margin-top: 50px;
+	text-align: center;
+}
+
+#footer-section {
+	display: block;
+	text-align: center;
+	padding: 20px;
+}
